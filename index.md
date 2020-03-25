@@ -1,6 +1,5 @@
 ##欢迎你来到我的站点
-title：Welcome to Octocat
-You can use the [editor on GitHub](https://github.com/vceLittlehat/username.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+title：你可以尝试一些有趣的事.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
